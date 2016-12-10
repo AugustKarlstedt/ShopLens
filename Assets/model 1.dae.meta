@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: c6abd2208cb26f042974d6739f74bc4c
+timeCreated: 1477202172
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component_1
+    100002: Component_1 1
+    100004: Component_2
+    100006: Component_2 1
+    100008: Component_3
+    100010: Component_3 1
+    100012: Component_4
+    100014: Component_4 1
+    100016: Component_5
+    100018: ID104
+    100020: ID104 1
+    100022: ID110
+    100024: ID110 1
+    100026: ID116
+    100028: ID116 1
+    100030: ID122
+    100032: ID122 1
+    100034: ID128
+    100036: ID128 1
+    100038: ID132
+    100040: ID132 1
+    100042: ID136
+    100044: ID136 1
+    100046: ID140
+    100048: ID140 1
+    100050: ID28
+    100052: ID28 1
+    100054: ID34
+    100056: ID34 1
+    100058: ID40
+    100060: ID40 1
+    100062: ID48
+    100064: ID48 1
+    100066: ID56
+    100068: ID56 1
+    100070: ID62
+    100072: ID62 1
+    100074: ID68
+    100076: ID68 1
+    100078: ID74
+    100080: ID74 1
+    100082: ID80
+    100084: ID80 1
+    100086: ID86
+    100088: ID86 1
+    100090: ID92
+    100092: ID92 1
+    100094: ID98
+    100096: ID98 1
+    100098: instance_0
+    100100: instance_1
+    100102: instance_2
+    100104: instance_2 1
+    100106: instance_3
+    100108: instance_3 1
+    100110: instance_4
+    100112: instance_4 1
+    100114: instance_5
+    100116: Last Saved SketchUp View
+    100118: //RootNode
+    400000: Component_1
+    400002: Component_1 1
+    400004: Component_2
+    400006: Component_2 1
+    400008: Component_3
+    400010: Component_3 1
+    400012: Component_4
+    400014: Component_4 1
+    400016: Component_5
+    400018: ID104
+    400020: ID104 1
+    400022: ID110
+    400024: ID110 1
+    400026: ID116
+    400028: ID116 1
+    400030: ID122
+    400032: ID122 1
+    400034: ID128
+    400036: ID128 1
+    400038: ID132
+    400040: ID132 1
+    400042: ID136
+    400044: ID136 1
+    400046: ID140
+    400048: ID140 1
+    400050: ID28
+    400052: ID28 1
+    400054: ID34
+    400056: ID34 1
+    400058: ID40
+    400060: ID40 1
+    400062: ID48
+    400064: ID48 1
+    400066: ID56
+    400068: ID56 1
+    400070: ID62
+    400072: ID62 1
+    400074: ID68
+    400076: ID68 1
+    400078: ID74
+    400080: ID74 1
+    400082: ID80
+    400084: ID80 1
+    400086: ID86
+    400088: ID86 1
+    400090: ID92
+    400092: ID92 1
+    400094: ID98
+    400096: ID98 1
+    400098: instance_0
+    400100: instance_1
+    400102: instance_2
+    400104: instance_2 1
+    400106: instance_3
+    400108: instance_3 1
+    400110: instance_4
+    400112: instance_4 1
+    400114: instance_5
+    400116: Last Saved SketchUp View
+    400118: //RootNode
+    2300000: Component_1
+    2300002: Component_1 1
+    2300004: Component_2
+    2300006: Component_2 1
+    2300008: Component_3
+    2300010: Component_3 1
+    2300012: ID104
+    2300014: ID104 1
+    2300016: ID110
+    2300018: ID110 1
+    2300020: ID116
+    2300022: ID116 1
+    2300024: ID122
+    2300026: ID122 1
+    2300028: ID28
+    2300030: ID28 1
+    2300032: ID34
+    2300034: ID34 1
+    2300036: ID40
+    2300038: ID40 1
+    2300040: ID48
+    2300042: ID48 1
+    2300044: ID56
+    2300046: ID56 1
+    2300048: ID62
+    2300050: ID62 1
+    2300052: ID68
+    2300054: ID68 1
+    2300056: ID74
+    2300058: ID74 1
+    2300060: ID80
+    2300062: ID80 1
+    2300064: ID86
+    2300066: ID86 1
+    2300068: ID92
+    2300070: ID92 1
+    2300072: ID98
+    2300074: ID98 1
+    3300000: Component_1
+    3300002: Component_1 1
+    3300004: Component_2
+    3300006: Component_2 1
+    3300008: Component_3
+    3300010: Component_3 1
+    3300012: ID104
+    3300014: ID104 1
+    3300016: ID110
+    3300018: ID110 1
+    3300020: ID116
+    3300022: ID116 1
+    3300024: ID122
+    3300026: ID122 1
+    3300028: ID28
+    3300030: ID28 1
+    3300032: ID34
+    3300034: ID34 1
+    3300036: ID40
+    3300038: ID40 1
+    3300040: ID48
+    3300042: ID48 1
+    3300044: ID56
+    3300046: ID56 1
+    3300048: ID62
+    3300050: ID62 1
+    3300052: ID68
+    3300054: ID68 1
+    3300056: ID74
+    3300058: ID74 1
+    3300060: ID80
+    3300062: ID80 1
+    3300064: ID86
+    3300066: ID86 1
+    3300068: ID92
+    3300070: ID92 1
+    3300072: ID98
+    3300074: ID98 1
+    4300000: Component_2
+    4300002: Component_1
+    4300004: ID28
+    4300006: ID34
+    4300008: ID40
+    4300010: ID48
+    4300012: ID56
+    4300014: ID62
+    4300016: ID68
+    4300018: ID74
+    4300020: ID80
+    4300022: ID86
+    4300024: ID92
+    4300026: ID98
+    4300028: ID104
+    4300030: ID110
+    4300032: ID116
+    4300034: ID122
+    4300036: Component_3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

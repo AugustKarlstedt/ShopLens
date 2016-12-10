@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: 896bb2ca2c3cef845a7651bac934c6a2
+timeCreated: 1477200823
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _3D_Banana.__Low-Poly._
+    100002: _3D_Banana.__Low-Poly._ 1
+    100004: _3D_Banana.__Low-Poly._ 10
+    100006: _3D_Banana.__Low-Poly._ 11
+    100008: _3D_Banana.__Low-Poly._ 12
+    100010: _3D_Banana.__Low-Poly._ 13
+    100012: _3D_Banana.__Low-Poly._ 14
+    100014: _3D_Banana.__Low-Poly._ 15
+    100016: _3D_Banana.__Low-Poly._ 16
+    100018: _3D_Banana.__Low-Poly._ 17
+    100020: _3D_Banana.__Low-Poly._ 18
+    100022: _3D_Banana.__Low-Poly._ 19
+    100024: _3D_Banana.__Low-Poly._ 2
+    100026: _3D_Banana.__Low-Poly._ 20
+    100028: _3D_Banana.__Low-Poly._ 21
+    100030: _3D_Banana.__Low-Poly._ 22
+    100032: _3D_Banana.__Low-Poly._ 23
+    100034: _3D_Banana.__Low-Poly._ 24
+    100036: _3D_Banana.__Low-Poly._ 25
+    100038: _3D_Banana.__Low-Poly._ 26
+    100040: _3D_Banana.__Low-Poly._ 27
+    100042: _3D_Banana.__Low-Poly._ 28
+    100044: _3D_Banana.__Low-Poly._ 29
+    100046: _3D_Banana.__Low-Poly._ 3
+    100048: _3D_Banana.__Low-Poly._ 30
+    100050: _3D_Banana.__Low-Poly._ 31
+    100052: _3D_Banana.__Low-Poly._ 32
+    100054: _3D_Banana.__Low-Poly._ 33
+    100056: _3D_Banana.__Low-Poly._ 34
+    100058: _3D_Banana.__Low-Poly._ 35
+    100060: _3D_Banana.__Low-Poly._ 36
+    100062: _3D_Banana.__Low-Poly._ 37
+    100064: _3D_Banana.__Low-Poly._ 38
+    100066: _3D_Banana.__Low-Poly._ 39
+    100068: _3D_Banana.__Low-Poly._ 4
+    100070: _3D_Banana.__Low-Poly._ 40
+    100072: _3D_Banana.__Low-Poly._ 41
+    100074: _3D_Banana.__Low-Poly._ 42
+    100076: _3D_Banana.__Low-Poly._ 43
+    100078: _3D_Banana.__Low-Poly._ 44
+    100080: _3D_Banana.__Low-Poly._ 45
+    100082: _3D_Banana.__Low-Poly._ 46
+    100084: _3D_Banana.__Low-Poly._ 47
+    100086: _3D_Banana.__Low-Poly._ 48
+    100088: _3D_Banana.__Low-Poly._ 49
+    100090: _3D_Banana.__Low-Poly._ 5
+    100092: _3D_Banana.__Low-Poly._ 50
+    100094: _3D_Banana.__Low-Poly._ 51
+    100096: _3D_Banana.__Low-Poly._ 52
+    100098: _3D_Banana.__Low-Poly._ 53
+    100100: _3D_Banana.__Low-Poly._ 54
+    100102: _3D_Banana.__Low-Poly._ 55
+    100104: _3D_Banana.__Low-Poly._ 56
+    100106: _3D_Banana.__Low-Poly._ 57
+    100108: _3D_Banana.__Low-Poly._ 58
+    100110: _3D_Banana.__Low-Poly._ 59
+    100112: _3D_Banana.__Low-Poly._ 6
+    100114: _3D_Banana.__Low-Poly._ 60
+    100116: _3D_Banana.__Low-Poly._ 61
+    100118: _3D_Banana.__Low-Poly._ 62
+    100120: _3D_Banana.__Low-Poly._ 63
+    100122: _3D_Banana.__Low-Poly._ 64
+    100124: _3D_Banana.__Low-Poly._ 65
+    100126: _3D_Banana.__Low-Poly._ 66
+    100128: _3D_Banana.__Low-Poly._ 67
+    100130: _3D_Banana.__Low-Poly._ 68
+    100132: _3D_Banana.__Low-Poly._ 69
+    100134: _3D_Banana.__Low-Poly._ 7
+    100136: _3D_Banana.__Low-Poly._ 70
+    100138: _3D_Banana.__Low-Poly._ 71
+    100140: _3D_Banana.__Low-Poly._ 72
+    100142: _3D_Banana.__Low-Poly._ 73
+    100144: _3D_Banana.__Low-Poly._ 74
+    100146: _3D_Banana.__Low-Poly._ 75
+    100148: _3D_Banana.__Low-Poly._ 76
+    100150: _3D_Banana.__Low-Poly._ 77
+    100152: _3D_Banana.__Low-Poly._ 8
+    100154: _3D_Banana.__Low-Poly._ 9
+    100156: ID124
+    100158: ID130
+    100160: instance_0
+    100162: instance_1
+    100164: instance_10
+    100166: instance_11
+    100168: instance_12
+    100170: instance_13
+    100172: instance_14
+    100174: instance_15
+    100176: instance_16
+    100178: instance_17
+    100180: instance_18
+    100182: instance_19
+    100184: instance_2
+    100186: instance_20
+    100188: instance_21
+    100190: instance_22
+    100192: instance_23
+    100194: instance_24
+    100196: instance_25
+    100198: instance_26
+    100200: instance_27
+    100202: instance_28
+    100204: instance_29
+    100206: instance_3
+    100208: instance_30
+    100210: instance_31
+    100212: instance_32
+    100214: instance_33
+    100216: instance_34
+    100218: instance_35
+    100220: instance_36
+    100222: instance_37
+    100224: instance_38
+    100226: instance_39
+    100228: instance_4
+    100230: instance_40
+    100232: instance_41
+    100234: instance_42
+    100236: instance_43
+    100238: instance_44
+    100240: instance_45
+    100242: instance_46
+    100244: instance_47
+    100246: instance_48
+    100248: instance_49
+    100250: instance_5
+    100252: instance_50
+    100254: instance_51
+    100256: instance_52
+    100258: instance_53
+    100260: instance_54
+    100262: instance_55
+    100264: instance_56
+    100266: instance_57
+    100268: instance_58
+    100270: instance_59
+    100272: instance_6
+    100274: instance_60
+    100276: instance_61
+    100278: instance_62
+    100280: instance_63
+    100282: instance_64
+    100284: instance_65
+    100286: instance_66
+    100288: instance_67
+    100290: instance_68
+    100292: instance_69
+    100294: instance_7
+    100296: instance_70
+    100298: instance_71
+    100300: instance_72
+    100302: instance_73
+    100304: instance_74
+    100306: instance_75
+    100308: instance_76
+    100310: instance_77
+    100312: instance_8
+    100314: instance_9
+    100316: Last Saved SketchUp View
+    100318: //RootNode
+    400000: _3D_Banana.__Low-Poly._
+    400002: _3D_Banana.__Low-Poly._ 1
+    400004: _3D_Banana.__Low-Poly._ 10
+    400006: _3D_Banana.__Low-Poly._ 11
+    400008: _3D_Banana.__Low-Poly._ 12
+    400010: _3D_Banana.__Low-Poly._ 13
+    400012: _3D_Banana.__Low-Poly._ 14
+    400014: _3D_Banana.__Low-Poly._ 15
+    400016: _3D_Banana.__Low-Poly._ 16
+    400018: _3D_Banana.__Low-Poly._ 17
+    400020: _3D_Banana.__Low-Poly._ 18
+    400022: _3D_Banana.__Low-Poly._ 19
+    400024: _3D_Banana.__Low-Poly._ 2
+    400026: _3D_Banana.__Low-Poly._ 20
+    400028: _3D_Banana.__Low-Poly._ 21
+    400030: _3D_Banana.__Low-Poly._ 22
+    400032: _3D_Banana.__Low-Poly._ 23
+    400034: _3D_Banana.__Low-Poly._ 24
+    400036: _3D_Banana.__Low-Poly._ 25
+    400038: _3D_Banana.__Low-Poly._ 26
+    400040: _3D_Banana.__Low-Poly._ 27
+    400042: _3D_Banana.__Low-Poly._ 28
+    400044: _3D_Banana.__Low-Poly._ 29
+    400046: _3D_Banana.__Low-Poly._ 3
+    400048: _3D_Banana.__Low-Poly._ 30
+    400050: _3D_Banana.__Low-Poly._ 31
+    400052: _3D_Banana.__Low-Poly._ 32
+    400054: _3D_Banana.__Low-Poly._ 33
+    400056: _3D_Banana.__Low-Poly._ 34
+    400058: _3D_Banana.__Low-Poly._ 35
+    400060: _3D_Banana.__Low-Poly._ 36
+    400062: _3D_Banana.__Low-Poly._ 37
+    400064: _3D_Banana.__Low-Poly._ 38
+    400066: _3D_Banana.__Low-Poly._ 39
+    400068: _3D_Banana.__Low-Poly._ 4
+    400070: _3D_Banana.__Low-Poly._ 40
+    400072: _3D_Banana.__Low-Poly._ 41
+    400074: _3D_Banana.__Low-Poly._ 42
+    400076: _3D_Banana.__Low-Poly._ 43
+    400078: _3D_Banana.__Low-Poly._ 44
+    400080: _3D_Banana.__Low-Poly._ 45
+    400082: _3D_Banana.__Low-Poly._ 46
+    400084: _3D_Banana.__Low-Poly._ 47
+    400086: _3D_Banana.__Low-Poly._ 48
+    400088: _3D_Banana.__Low-Poly._ 49
+    400090: _3D_Banana.__Low-Poly._ 5
+    400092: _3D_Banana.__Low-Poly._ 50
+    400094: _3D_Banana.__Low-Poly._ 51
+    400096: _3D_Banana.__Low-Poly._ 52
+    400098: _3D_Banana.__Low-Poly._ 53
+    400100: _3D_Banana.__Low-Poly._ 54
+    400102: _3D_Banana.__Low-Poly._ 55
+    400104: _3D_Banana.__Low-Poly._ 56
+    400106: _3D_Banana.__Low-Poly._ 57
+    400108: _3D_Banana.__Low-Poly._ 58
+    400110: _3D_Banana.__Low-Poly._ 59
+    400112: _3D_Banana.__Low-Poly._ 6
+    400114: _3D_Banana.__Low-Poly._ 60
+    400116: _3D_Banana.__Low-Poly._ 61
+    400118: _3D_Banana.__Low-Poly._ 62
+    400120: _3D_Banana.__Low-Poly._ 63
+    400122: _3D_Banana.__Low-Poly._ 64
+    400124: _3D_Banana.__Low-Poly._ 65
+    400126: _3D_Banana.__Low-Poly._ 66
+    400128: _3D_Banana.__Low-Poly._ 67
+    400130: _3D_Banana.__Low-Poly._ 68
+    400132: _3D_Banana.__Low-Poly._ 69
+    400134: _3D_Banana.__Low-Poly._ 7
+    400136: _3D_Banana.__Low-Poly._ 70
+    400138: _3D_Banana.__Low-Poly._ 71
+    400140: _3D_Banana.__Low-Poly._ 72
+    400142: _3D_Banana.__Low-Poly._ 73
+    400144: _3D_Banana.__Low-Poly._ 74
+    400146: _3D_Banana.__Low-Poly._ 75
+    400148: _3D_Banana.__Low-Poly._ 76
+    400150: _3D_Banana.__Low-Poly._ 77
+    400152: _3D_Banana.__Low-Poly._ 8
+    400154: _3D_Banana.__Low-Poly._ 9
+    400156: ID124
+    400158: ID130
+    400160: instance_0
+    400162: instance_1
+    400164: instance_10
+    400166: instance_11
+    400168: instance_12
+    400170: instance_13
+    400172: instance_14
+    400174: instance_15
+    400176: instance_16
+    400178: instance_17
+    400180: instance_18
+    400182: instance_19
+    400184: instance_2
+    400186: instance_20
+    400188: instance_21
+    400190: instance_22
+    400192: instance_23
+    400194: instance_24
+    400196: instance_25
+    400198: instance_26
+    400200: instance_27
+    400202: instance_28
+    400204: instance_29
+    400206: instance_3
+    400208: instance_30
+    400210: instance_31
+    400212: instance_32
+    400214: instance_33
+    400216: instance_34
+    400218: instance_35
+    400220: instance_36
+    400222: instance_37
+    400224: instance_38
+    400226: instance_39
+    400228: instance_4
+    400230: instance_40
+    400232: instance_41
+    400234: instance_42
+    400236: instance_43
+    400238: instance_44
+    400240: instance_45
+    400242: instance_46
+    400244: instance_47
+    400246: instance_48
+    400248: instance_49
+    400250: instance_5
+    400252: instance_50
+    400254: instance_51
+    400256: instance_52
+    400258: instance_53
+    400260: instance_54
+    400262: instance_55
+    400264: instance_56
+    400266: instance_57
+    400268: instance_58
+    400270: instance_59
+    400272: instance_6
+    400274: instance_60
+    400276: instance_61
+    400278: instance_62
+    400280: instance_63
+    400282: instance_64
+    400284: instance_65
+    400286: instance_66
+    400288: instance_67
+    400290: instance_68
+    400292: instance_69
+    400294: instance_7
+    400296: instance_70
+    400298: instance_71
+    400300: instance_72
+    400302: instance_73
+    400304: instance_74
+    400306: instance_75
+    400308: instance_76
+    400310: instance_77
+    400312: instance_8
+    400314: instance_9
+    400316: Last Saved SketchUp View
+    400318: //RootNode
+    2300000: _3D_Banana.__Low-Poly._
+    2300002: _3D_Banana.__Low-Poly._ 1
+    2300004: _3D_Banana.__Low-Poly._ 10
+    2300006: _3D_Banana.__Low-Poly._ 11
+    2300008: _3D_Banana.__Low-Poly._ 12
+    2300010: _3D_Banana.__Low-Poly._ 13
+    2300012: _3D_Banana.__Low-Poly._ 14
+    2300014: _3D_Banana.__Low-Poly._ 15
+    2300016: _3D_Banana.__Low-Poly._ 16
+    2300018: _3D_Banana.__Low-Poly._ 17
+    2300020: _3D_Banana.__Low-Poly._ 18
+    2300022: _3D_Banana.__Low-Poly._ 19
+    2300024: _3D_Banana.__Low-Poly._ 2
+    2300026: _3D_Banana.__Low-Poly._ 20
+    2300028: _3D_Banana.__Low-Poly._ 21
+    2300030: _3D_Banana.__Low-Poly._ 22
+    2300032: _3D_Banana.__Low-Poly._ 23
+    2300034: _3D_Banana.__Low-Poly._ 24
+    2300036: _3D_Banana.__Low-Poly._ 25
+    2300038: _3D_Banana.__Low-Poly._ 26
+    2300040: _3D_Banana.__Low-Poly._ 27
+    2300042: _3D_Banana.__Low-Poly._ 28
+    2300044: _3D_Banana.__Low-Poly._ 29
+    2300046: _3D_Banana.__Low-Poly._ 3
+    2300048: _3D_Banana.__Low-Poly._ 30
+    2300050: _3D_Banana.__Low-Poly._ 31
+    2300052: _3D_Banana.__Low-Poly._ 32
+    2300054: _3D_Banana.__Low-Poly._ 33
+    2300056: _3D_Banana.__Low-Poly._ 34
+    2300058: _3D_Banana.__Low-Poly._ 35
+    2300060: _3D_Banana.__Low-Poly._ 36
+    2300062: _3D_Banana.__Low-Poly._ 37
+    2300064: _3D_Banana.__Low-Poly._ 38
+    2300066: _3D_Banana.__Low-Poly._ 39
+    2300068: _3D_Banana.__Low-Poly._ 4
+    2300070: _3D_Banana.__Low-Poly._ 40
+    2300072: _3D_Banana.__Low-Poly._ 41
+    2300074: _3D_Banana.__Low-Poly._ 42
+    2300076: _3D_Banana.__Low-Poly._ 43
+    2300078: _3D_Banana.__Low-Poly._ 44
+    2300080: _3D_Banana.__Low-Poly._ 45
+    2300082: _3D_Banana.__Low-Poly._ 46
+    2300084: _3D_Banana.__Low-Poly._ 47
+    2300086: _3D_Banana.__Low-Poly._ 48
+    2300088: _3D_Banana.__Low-Poly._ 49
+    2300090: _3D_Banana.__Low-Poly._ 5
+    2300092: _3D_Banana.__Low-Poly._ 50
+    2300094: _3D_Banana.__Low-Poly._ 51
+    2300096: _3D_Banana.__Low-Poly._ 52
+    2300098: _3D_Banana.__Low-Poly._ 53
+    2300100: _3D_Banana.__Low-Poly._ 54
+    2300102: _3D_Banana.__Low-Poly._ 55
+    2300104: _3D_Banana.__Low-Poly._ 56
+    2300106: _3D_Banana.__Low-Poly._ 57
+    2300108: _3D_Banana.__Low-Poly._ 58
+    2300110: _3D_Banana.__Low-Poly._ 59
+    2300112: _3D_Banana.__Low-Poly._ 6
+    2300114: _3D_Banana.__Low-Poly._ 60
+    2300116: _3D_Banana.__Low-Poly._ 61
+    2300118: _3D_Banana.__Low-Poly._ 62
+    2300120: _3D_Banana.__Low-Poly._ 63
+    2300122: _3D_Banana.__Low-Poly._ 64
+    2300124: _3D_Banana.__Low-Poly._ 65
+    2300126: _3D_Banana.__Low-Poly._ 66
+    2300128: _3D_Banana.__Low-Poly._ 67
+    2300130: _3D_Banana.__Low-Poly._ 68
+    2300132: _3D_Banana.__Low-Poly._ 69
+    2300134: _3D_Banana.__Low-Poly._ 7
+    2300136: _3D_Banana.__Low-Poly._ 70
+    2300138: _3D_Banana.__Low-Poly._ 71
+    2300140: _3D_Banana.__Low-Poly._ 72
+    2300142: _3D_Banana.__Low-Poly._ 73
+    2300144: _3D_Banana.__Low-Poly._ 74
+    2300146: _3D_Banana.__Low-Poly._ 75
+    2300148: _3D_Banana.__Low-Poly._ 76
+    2300150: _3D_Banana.__Low-Poly._ 77
+    2300152: _3D_Banana.__Low-Poly._ 8
+    2300154: _3D_Banana.__Low-Poly._ 9
+    2300156: ID124
+    2300158: ID130
+    2300160: //RootNode
+    3300000: _3D_Banana.__Low-Poly._
+    3300002: _3D_Banana.__Low-Poly._ 1
+    3300004: _3D_Banana.__Low-Poly._ 10
+    3300006: _3D_Banana.__Low-Poly._ 11
+    3300008: _3D_Banana.__Low-Poly._ 12
+    3300010: _3D_Banana.__Low-Poly._ 13
+    3300012: _3D_Banana.__Low-Poly._ 14
+    3300014: _3D_Banana.__Low-Poly._ 15
+    3300016: _3D_Banana.__Low-Poly._ 16
+    3300018: _3D_Banana.__Low-Poly._ 17
+    3300020: _3D_Banana.__Low-Poly._ 18
+    3300022: _3D_Banana.__Low-Poly._ 19
+    3300024: _3D_Banana.__Low-Poly._ 2
+    3300026: _3D_Banana.__Low-Poly._ 20
+    3300028: _3D_Banana.__Low-Poly._ 21
+    3300030: _3D_Banana.__Low-Poly._ 22
+    3300032: _3D_Banana.__Low-Poly._ 23
+    3300034: _3D_Banana.__Low-Poly._ 24
+    3300036: _3D_Banana.__Low-Poly._ 25
+    3300038: _3D_Banana.__Low-Poly._ 26
+    3300040: _3D_Banana.__Low-Poly._ 27
+    3300042: _3D_Banana.__Low-Poly._ 28
+    3300044: _3D_Banana.__Low-Poly._ 29
+    3300046: _3D_Banana.__Low-Poly._ 3
+    3300048: _3D_Banana.__Low-Poly._ 30
+    3300050: _3D_Banana.__Low-Poly._ 31
+    3300052: _3D_Banana.__Low-Poly._ 32
+    3300054: _3D_Banana.__Low-Poly._ 33
+    3300056: _3D_Banana.__Low-Poly._ 34
+    3300058: _3D_Banana.__Low-Poly._ 35
+    3300060: _3D_Banana.__Low-Poly._ 36
+    3300062: _3D_Banana.__Low-Poly._ 37
+    3300064: _3D_Banana.__Low-Poly._ 38
+    3300066: _3D_Banana.__Low-Poly._ 39
+    3300068: _3D_Banana.__Low-Poly._ 4
+    3300070: _3D_Banana.__Low-Poly._ 40
+    3300072: _3D_Banana.__Low-Poly._ 41
+    3300074: _3D_Banana.__Low-Poly._ 42
+    3300076: _3D_Banana.__Low-Poly._ 43
+    3300078: _3D_Banana.__Low-Poly._ 44
+    3300080: _3D_Banana.__Low-Poly._ 45
+    3300082: _3D_Banana.__Low-Poly._ 46
+    3300084: _3D_Banana.__Low-Poly._ 47
+    3300086: _3D_Banana.__Low-Poly._ 48
+    3300088: _3D_Banana.__Low-Poly._ 49
+    3300090: _3D_Banana.__Low-Poly._ 5
+    3300092: _3D_Banana.__Low-Poly._ 50
+    3300094: _3D_Banana.__Low-Poly._ 51
+    3300096: _3D_Banana.__Low-Poly._ 52
+    3300098: _3D_Banana.__Low-Poly._ 53
+    3300100: _3D_Banana.__Low-Poly._ 54
+    3300102: _3D_Banana.__Low-Poly._ 55
+    3300104: _3D_Banana.__Low-Poly._ 56
+    3300106: _3D_Banana.__Low-Poly._ 57
+    3300108: _3D_Banana.__Low-Poly._ 58
+    3300110: _3D_Banana.__Low-Poly._ 59
+    3300112: _3D_Banana.__Low-Poly._ 6
+    3300114: _3D_Banana.__Low-Poly._ 60
+    3300116: _3D_Banana.__Low-Poly._ 61
+    3300118: _3D_Banana.__Low-Poly._ 62
+    3300120: _3D_Banana.__Low-Poly._ 63
+    3300122: _3D_Banana.__Low-Poly._ 64
+    3300124: _3D_Banana.__Low-Poly._ 65
+    3300126: _3D_Banana.__Low-Poly._ 66
+    3300128: _3D_Banana.__Low-Poly._ 67
+    3300130: _3D_Banana.__Low-Poly._ 68
+    3300132: _3D_Banana.__Low-Poly._ 69
+    3300134: _3D_Banana.__Low-Poly._ 7
+    3300136: _3D_Banana.__Low-Poly._ 70
+    3300138: _3D_Banana.__Low-Poly._ 71
+    3300140: _3D_Banana.__Low-Poly._ 72
+    3300142: _3D_Banana.__Low-Poly._ 73
+    3300144: _3D_Banana.__Low-Poly._ 74
+    3300146: _3D_Banana.__Low-Poly._ 75
+    3300148: _3D_Banana.__Low-Poly._ 76
+    3300150: _3D_Banana.__Low-Poly._ 77
+    3300152: _3D_Banana.__Low-Poly._ 8
+    3300154: _3D_Banana.__Low-Poly._ 9
+    3300156: ID124
+    3300158: ID130
+    3300160: //RootNode
+    4300000: SketchUp
+    4300002: ID124
+    4300004: ID130
+    4300006: _3D_Banana.__Low-Poly._
+    4300008: _3D_Banana.__Low-Poly._
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: d3762a769e362f04299585687db55710
+timeCreated: 1477200756
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group_0
+    100002: ID103
+    100004: ID111
+    100006: ID117
+    100008: ID123
+    100010: ID129
+    100012: ID135
+    100014: ID141
+    100016: ID147
+    100018: ID15
+    100020: ID153
+    100022: ID157
+    100024: ID161
+    100026: ID25
+    100028: ID33
+    100030: ID39
+    100032: ID45
+    100034: ID53
+    100036: ID61
+    100038: ID67
+    100040: ID73
+    100042: ID79
+    100044: ID85
+    100046: ID91
+    100048: ID97
+    100050: Last Saved SketchUp View
+    100052: //RootNode
+    400000: group_0
+    400002: ID103
+    400004: ID111
+    400006: ID117
+    400008: ID123
+    400010: ID129
+    400012: ID135
+    400014: ID141
+    400016: ID147
+    400018: ID15
+    400020: ID153
+    400022: ID157
+    400024: ID161
+    400026: ID25
+    400028: ID33
+    400030: ID39
+    400032: ID45
+    400034: ID53
+    400036: ID61
+    400038: ID67
+    400040: ID73
+    400042: ID79
+    400044: ID85
+    400046: ID91
+    400048: ID97
+    400050: Last Saved SketchUp View
+    400052: //RootNode
+    2300000: group_0
+    2300002: ID103
+    2300004: ID111
+    2300006: ID117
+    2300008: ID123
+    2300010: ID129
+    2300012: ID135
+    2300014: ID141
+    2300016: ID147
+    2300018: ID15
+    2300020: ID25
+    2300022: ID33
+    2300024: ID39
+    2300026: ID45
+    2300028: ID53
+    2300030: ID61
+    2300032: ID67
+    2300034: ID73
+    2300036: ID79
+    2300038: ID85
+    2300040: ID91
+    2300042: ID97
+    3300000: group_0
+    3300002: ID103
+    3300004: ID111
+    3300006: ID117
+    3300008: ID123
+    3300010: ID129
+    3300012: ID135
+    3300014: ID141
+    3300016: ID147
+    3300018: ID15
+    3300020: ID25
+    3300022: ID33
+    3300024: ID39
+    3300026: ID45
+    3300028: ID53
+    3300030: ID61
+    3300032: ID67
+    3300034: ID73
+    3300036: ID79
+    3300038: ID85
+    3300040: ID91
+    3300042: ID97
+    4300000: group_0
+    4300002: ID15
+    4300004: ID25
+    4300006: ID33
+    4300008: ID39
+    4300010: ID45
+    4300012: ID53
+    4300014: ID61
+    4300016: ID67
+    4300018: ID73
+    4300020: ID79
+    4300022: ID85
+    4300024: ID91
+    4300026: ID97
+    4300028: ID103
+    4300030: ID111
+    4300032: ID117
+    4300034: ID123
+    4300036: ID129
+    4300038: ID135
+    4300040: ID141
+    4300042: ID147
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

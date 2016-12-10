@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: 11ea5ba887b3b4fabb90eee61a5f6a7b
+timeCreated: 1477177168
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: group_0
+    100002: group_1
+    100004: group_2
+    100006: group_3
+    100008: group_4
+    100010: group_5
+    100012: group_6
+    100014: group_7
+    100016: ID100
+    100018: ID110
+    100020: ID114
+    100022: ID118
+    100024: ID122
+    100026: ID138
+    100028: ID148
+    100030: ID176
+    100032: ID184
+    100034: ID194
+    100036: ID202
+    100038: ID210
+    100040: ID229
+    100042: ID23
+    100044: ID237
+    100046: ID241
+    100048: ID245
+    100050: ID249
+    100052: ID253
+    100054: ID257
+    100056: ID70
+    100058: ID85
+    100060: instance_0
+    100062: instance_1
+    100064: LG_65EF950V_FLAT_OLED_TV
+    100066: skp_camera_Last_Saved_SketchUp_View
+    100068: //RootNode
+    100070: VP_LGTV_LG_logo
+    400000: group_0
+    400002: group_1
+    400004: group_2
+    400006: group_3
+    400008: group_4
+    400010: group_5
+    400012: group_6
+    400014: group_7
+    400016: ID100
+    400018: ID110
+    400020: ID114
+    400022: ID118
+    400024: ID122
+    400026: ID138
+    400028: ID148
+    400030: ID176
+    400032: ID184
+    400034: ID194
+    400036: ID202
+    400038: ID210
+    400040: ID229
+    400042: ID23
+    400044: ID237
+    400046: ID241
+    400048: ID245
+    400050: ID249
+    400052: ID253
+    400054: ID257
+    400056: ID70
+    400058: ID85
+    400060: instance_0
+    400062: instance_1
+    400064: LG_65EF950V_FLAT_OLED_TV
+    400066: skp_camera_Last_Saved_SketchUp_View
+    400068: //RootNode
+    400070: VP_LGTV_LG_logo
+    2300000: group_1
+    2300002: group_2
+    2300004: group_4
+    2300006: group_6
+    2300008: group_7
+    2300010: ID100
+    2300012: ID138
+    2300014: ID148
+    2300016: ID176
+    2300018: ID184
+    2300020: ID194
+    2300022: ID202
+    2300024: ID210
+    2300026: ID229
+    2300028: ID23
+    2300030: ID70
+    2300032: ID85
+    2300034: VP_LGTV_LG_logo
+    3300000: group_1
+    3300002: group_2
+    3300004: group_4
+    3300006: group_6
+    3300008: group_7
+    3300010: ID100
+    3300012: ID138
+    3300014: ID148
+    3300016: ID176
+    3300018: ID184
+    3300020: ID194
+    3300022: ID202
+    3300024: ID210
+    3300026: ID229
+    3300028: ID23
+    3300030: ID70
+    3300032: ID85
+    3300034: VP_LGTV_LG_logo
+    4300000: group_1
+    4300002: ID23
+    4300004: group_2
+    4300006: group_4
+    4300008: ID70
+    4300010: ID85
+    4300012: ID100
+    4300014: group_6
+    4300016: ID138
+    4300018: ID148
+    4300020: VP_LGTV_LG_logo
+    4300022: ID176
+    4300024: ID184
+    4300026: ID194
+    4300028: ID202
+    4300030: ID210
+    4300032: group_7
+    4300034: ID229
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
